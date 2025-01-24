@@ -6,4 +6,8 @@ readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "Johannes Schießl" }]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "argparse>=1.4.0",
+    "pathlib>=1.0.1",
+    "websockify>=0.11.0",
+]
