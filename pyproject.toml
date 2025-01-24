@@ -1,0 +1,9 @@
+[project]
+name = "remote-bluej-access"
+version = "0.1.0"
+description = "We have to use BlueJ for school, not everyone can download it though, this is a way to host it and allow people to access it via the browser."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Johannes Schießl" }]
+requires-python = ">=3.12"
+dependencies = []
